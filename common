@@ -1,0 +1,12 @@
+/* Commom css */
+.clear-both{clear: both !important;}
+.clear-both-before:before{clear: both !important;}
+.clear-both-after:after{clear: both !important;}
+.display-none{display:none;}
+.display-block{display: block;}
+.display-inline{display: inline;}
+.float-left{float: left !important;}
+.float-right{float: right !important;}
+.float-none{float: none !important;}
+.cursor-pointer{cursor: pointer;}
+.circle{border-radius: 50%;}
