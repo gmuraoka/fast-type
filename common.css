@@ -10,3 +10,6 @@
 .float-none{float: none;}
 .cursor-pointer{cursor: pointer;}
 .circle{border-radius: 50%;}
+.text-center{text-align: center;}
+.text-left{text-align: left;}
+.text-right{text-align: right;}
